@@ -26,14 +26,18 @@ A beginner-friendly web application to search for Pokemon and view their stats, 
 
 ## Project Structure
 
-```
+```text
 pokemon-finder/
 ├── assets/                 # Images and resources
 ├── .gitignore             # Git ignore configuration
-├── index.html             # Main application file
+├── index.html             # Main HTML structure
+├── styles.css             # Styling and layout
+├── script.js              # JavaScript functionality
 ├── PROJECT_REQUIREMENTS.md # Detailed project documentation
 └── README.md              # This file
 ```
+
+This project uses separate files for HTML, CSS, and JavaScript to follow best practices and make the code more maintainable.
 
 ## Features
 
@@ -71,5 +75,5 @@ Try these Pokemon to test different features:
 ---
 
 **Status:** Ready for Development
-**Target Audience:** Beginner web developers (high school level)
+**Target Audience:** Beginner web developers
 **Estimated Time:** 2-3 weeks (casual pace)

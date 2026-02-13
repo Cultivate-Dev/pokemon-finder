@@ -2,6 +2,10 @@
 
 A beginner-friendly web application to search for Pokemon and view their stats, types, and images. Built with vanilla HTML, CSS, and JavaScript using the PokeAPI.
 
+## Demo
+
+![Pokemon Finder Demo](poke-finder-demo.gif)
+
 ## Quick Start
 
 1. Open `index.html` in your web browser
@@ -71,6 +75,10 @@ Try these Pokemon to test different features:
 - Evolution chain display
 - Compare two Pokemon side-by-side
 - Filter by type or generation
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
